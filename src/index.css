@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Noto+Sans+Armenian:wght@191&family=Reddit+Mono:wght@200..900&display=swap');@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    font-family: 'Lexend', sans-serif;
+  }
+  
+  .heading {
+    font-family: 'Noto Sans Armenian', sans-serif;
+  }
+  
+  .code {
+    font-family: 'Reddit Mono', monospace;
+  }
