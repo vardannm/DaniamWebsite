@@ -18,6 +18,7 @@ export default {
         pageBackground:"#020f12",
         navBack:'#0E0F0F',
       },
+      
     },
   },
   plugins: [],
