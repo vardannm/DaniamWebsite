@@ -18,7 +18,16 @@ export default {
         pageBackground:"#020f12",
         navBack:'#0E0F0F',
       },
-      
+      keyframes: {
+        'border-spin': {
+          '100%': {
+            transform: 'rotate(-360deg)',
+          },
+        },
+      },
+      animation: {
+        'border-spin': 'border-spin 7s linear infinite',
+      },
     },
   },
   plugins: [],

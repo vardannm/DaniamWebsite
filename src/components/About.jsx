@@ -24,7 +24,7 @@ function About() {
     },
   ];
   return (
-    <div className="bg-cardGray min-h-screen pt-32">
+    <div className="bg-cardGray min-h-screen pt-24">
       <div className="flex flex-col gap-5 m-auto w-5/6 mb-10 ">
         <p className="text-4xl font-light text-cyan-300">Company Overview</p>
         <p className="text-2xl font-thin text-white">

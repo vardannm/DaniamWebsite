@@ -1,6 +1,6 @@
 function Partners() {
   return (
-    <div className="min-h-screen bg-cardGray">
+    <div className="min-h-screen bg-cardGray pt-24">
       <div className="flex flex-col">
         <div>
           <div className="  p-6 ml-12 ">
@@ -99,6 +99,7 @@ function Partners() {
           </div>
         </div>
       </div>
+      
     </div>
   );
 }
